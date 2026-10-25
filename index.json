@@ -1,0 +1,14 @@
+{
+  "attribution": "LingoDew (lingodew.com), CC BY-SA 4.0. Japanese text segmented with jpdb.io. Includes material from JMdict (EDRDG, https://www.edrdg.org/) under CC BY-SA 4.0.",
+  "author": "LingoDew",
+  "description": "Rank of each word by how often it is spoken across 3,974 Japanese videos in the LingoDew library (snapshot 2026-10-25). Lower is more frequent.",
+  "downloadUrl": "https://github.com/lingodew/spoken-frequency/releases/latest/download/lingodew-spoken-frequency-ja-yomitan.zip",
+  "format": 3,
+  "frequencyMode": "rank-based",
+  "indexUrl": "https://raw.githubusercontent.com/lingodew/spoken-frequency/main/index.json",
+  "isUpdatable": true,
+  "revision": "lingodew-spoken-ja-2026-10-25",
+  "sourceLanguage": "ja",
+  "title": "LingoDew Spoken",
+  "url": "https://github.com/lingodew/spoken-frequency"
+}
