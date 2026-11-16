@@ -35,7 +35,7 @@ Known limits: transcription and segmentation errors are possible, mostly at the 
 
 ## License and credits
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), see `LICENSE-CC-BY-SA-4.0.txt`. Share-alike applies because the dictionary forms and readings come from JMdict.
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), see `LICENSE`. Share-alike applies because the dictionary forms and readings come from JMdict.
 
 Please credit **LingoDew (lingodew.com)** when you use or share this dictionary.
 
