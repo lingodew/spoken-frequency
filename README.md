@@ -1,8 +1,8 @@
 # LingoDew Spoken: Japanese word frequency for Yomitan
 
-A [Yomitan](https://yomitan.wiki/) frequency dictionary that ranks Japanese words by how often they are actually spoken in the videos of the [LingoDew](https://www.lingodew.com/) library. This snapshot is from 2026-10-25.
+A [Yomitan](https://yomitan.wiki/) frequency dictionary that ranks Japanese words by how often they are actually spoken in the videos of the [LingoDew](https://www.lingodew.com/) library. This snapshot is from 2026-11-18.
 
-Most frequency lists are built from written text, novels or anime subtitles. This one counts speech from 3,974 Japanese YouTube videos, so the words you hear most in real conversation come first.
+Most frequency lists are built from written text, novels or anime subtitles. This one counts speech from 5,365 Japanese YouTube videos, so the words you hear most in real conversation come first.
 
 ## Install
 
@@ -16,10 +16,10 @@ Lookups now show a **LingoDew Spoken** rank next to each word; a lower number me
 
 | | |
 |---|---|
-| Videos | 3,974 |
-| Channels | 184 |
-| Words spoken (tokens) | 3,948,810 |
-| Words in the dictionary | 23,825 |
+| Videos | 5,365 |
+| Channels | 197 |
+| Words spoken (tokens) | 6,349,139 |
+| Words in the dictionary | 30,305 |
 
 The videos are native-speaker YouTube videos on news, language learning, cooking, daily life, entertainment, travel and other topics. Speaking speed and level statistics for the same videos are on [lingodew.com/research/](https://www.lingodew.com/research/).
 
